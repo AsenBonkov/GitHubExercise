@@ -3,5 +3,9 @@
 2.....
 
 lets see!
+<<<<<<< HEAD
 3. Whats happening?
 
+=======
+3.Done - develop branch!
+>>>>>>> develop
